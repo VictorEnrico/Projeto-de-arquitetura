@@ -1,0 +1,1 @@
+O programa que eu fiz,embora seja simple ele busca apenas a fazer uma simples operação,onde faz a soma de dois numeros,onde sao armazenados por um acumulador e logo após isso faz uma conta,escolhi esse pq tentei uns mais complexos mas ficava dando erro que gerou dor de cabeça
